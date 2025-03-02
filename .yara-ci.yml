@@ -1,3 +1,6 @@
+branches:
+  accept:
+  - "**"
 files:
   accept:
   - "**.yar"
