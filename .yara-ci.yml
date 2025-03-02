@@ -1,0 +1,6 @@
+files:
+  accept:
+  - "**.yar"
+  - "**.yara"
+false_negatives:
+  disabled: true
